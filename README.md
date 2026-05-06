@@ -33,7 +33,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Hadasa/Hadasa/output/snake.svg" alt="Snake animation" />
-
-###
