@@ -22,7 +22,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/hadassa-rodrigues-39407623a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
